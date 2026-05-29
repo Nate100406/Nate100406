@@ -21,6 +21,8 @@ Next.js · TypeScript · Supabase · Playwright · OpenAI · Voiceflow · APIs �
 
 Most of my real client work stays private because it involves business workflows, automation logic, and sensitive systems.
 
+I keep real client systems private and use public repositories for sanitized demos, templates, and technical proof-of-work.
+
 The public repositories here are used for sanitized demos, technical proof-of-work, templates, and experiments that show the type of systems I build.
 
 ## Current Direction
