@@ -18,6 +18,8 @@ Scheduled collection jobs normalise supplier data, validate incoming records and
 
 **Technologies:** Next.js, TypeScript/JavaScript, Supabase/PostgreSQL, Playwright, Google Cloud Run and Cloud Scheduler.
 
+[Read the engineering case study](https://github.com/Nate100406/travel-availability-case-study)
+
 ### Lead data and customer enquiry tools
 
 Built automated collection and enrichment workflows that delivered **1,500+ business leads**, structured into prospect lists for client outreach.
