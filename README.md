@@ -1,35 +1,40 @@
 # Nate Colby
 
-Software developer building AI agents, internal tools, and workflow automation systems for businesses through Méllon AI Agency.
+Software developer building AI applications, internal tools and automation for businesses through **Méllon Software Studio**.
 
-I work on practical systems that connect APIs, automate repetitive operations, and turn messy business workflows into reliable software.
+Based in Durban, South Africa (UTC+2). Interested in remote software roles, contract development and startup teams.
 
-## What I Build
+I work directly with clients from requirements and scoping through development, deployment and maintenance.
 
-* AI agents and assistant interfaces
-* Workflow automation and internal tools
-* API integrations and data workflows
-* Browser automation and data collection
-* Customer support and lead-capture systems
-* Custom business tools using modern AI-assisted development
+## Selected commercial work
 
-## Tech I Work With
+### Travel availability and lodge search platform
 
-Next.js · TypeScript · Supabase · Playwright · OpenAI · Voiceflow · APIs · Webhooks · Google Cloud · Make/Zapier
+Built and maintain a private travel application covering **400+ properties**, bringing supplier availability into one workflow.
 
-## Public Work
+The application supports searches by destination, dates and room requirements, with full-stay matching, room-type breakdowns and flexible-date alternatives. Results show when supplier data was last updated.
 
-Most of my real client work stays private because it involves business workflows, automation logic, and sensitive systems.
+Scheduled collection jobs normalise supplier data, validate incoming records and report failures.
 
-I keep real client systems private and use public repositories for sanitized demos, templates, and technical proof-of-work.
+**Technologies:** Next.js, TypeScript/JavaScript, Supabase/PostgreSQL, Playwright, Google Cloud Run and Cloud Scheduler.
 
-The public repositories here are used for sanitized demos, technical proof-of-work, templates, and experiments that show the type of systems I build.
+### Lead data and customer enquiry tools
 
-## Current Direction
+Built automated collection and enrichment workflows that delivered **1,500+ business leads**, structured into prospect lists for client outreach.
 
-Building practical AI and automation systems for founder-led and operations-heavy businesses.
+Also built website assistants that answer customer questions, capture enquiries and route leads to business staff.
 
-## Links
+Client application source code remains private.
 
-* Méllon AI Agency: https://mellonaiagency.com
-* LinkedIn: https://www.linkedin.com/in/nate-colby
+## Technologies
+
+- **Languages and frameworks:** TypeScript, JavaScript, Python, Next.js
+- **Data and integrations:** Supabase/PostgreSQL, APIs, webhooks
+- **AI and automation:** OpenAI API, LLM integrations, Playwright, Voiceflow
+- **Cloud and deployment:** Google Cloud Run, Cloud Scheduler, Vercel
+
+## Contact
+
+Open to conversations about remote software roles and contract projects.
+
+[LinkedIn](https://www.linkedin.com/in/nate-colby/) · [Méllon](https://mellonaiagency.com/) · [Email](mailto:nate@mellonaiagency.com)
