@@ -1,10 +1,16 @@
 # Nate Colby
 
-Software developer building AI applications, internal tools and automation for businesses through **Méllon Software Studio**.
+Software developer building TypeScript applications, APIs, internal tools and automation for businesses through **Méllon Software Studio**.
 
 Based in Durban, South Africa (UTC+2). Interested in remote software roles, contract development and startup teams.
 
 I work directly with clients from requirements and scoping through development, deployment and maintenance.
+
+## Public engineering project
+
+**[DispatchLab](https://github.com/Nate100406/dispatchlab)** — a webhook delivery and replay lab using TypeScript, PostgreSQL and Cloudflare Workers. It demonstrates signed requests, bounded retries, background delivery and recovery, with tests for failure and concurrency. The demonstration uses fictional events and controlled receiving services.
+
+[Try the live demo](https://dispatchlab.nate-26e.workers.dev/) · [Explore the code and tests](https://github.com/Nate100406/dispatchlab) · [Five-minute walkthrough](https://github.com/Nate100406/dispatchlab/blob/main/docs/reviewer-walkthrough.md)
 
 ## Selected commercial work
 
